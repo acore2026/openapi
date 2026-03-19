@@ -13,7 +13,7 @@
 package UEContextManagement
 
 import (
-	"github.com/free5gc/openapi"
+	"github.com/acore2026/openapi"
 	"net/http"
 	"strings"
 )

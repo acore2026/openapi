@@ -13,8 +13,8 @@
 package EventsSubscription
 
 import (
-	"github.com/free5gc/openapi"
-	"github.com/free5gc/openapi/models"
+	"github.com/acore2026/openapi"
+	"github.com/acore2026/openapi/models"
 
 	"context"
 	"io/ioutil"
