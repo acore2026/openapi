@@ -44,12 +44,12 @@ func TestParameterToString(t *testing.T) {
 				Age    int    `json:"age"`
 				Active bool   `json:"active"`
 			}{
-				Name:   "free5GC",
+				Name:   "acore2026",
 				Age:    3,
 				Active: true,
 			},
 			format: "application/json",
-			para:   "{\"name\":\"free5GC\",\"age\":3,\"active\":true}",
+			para:   "{\"name\":\"acore2026\",\"age\":3,\"active\":true}",
 		},
 	}
 
